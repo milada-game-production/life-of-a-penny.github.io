@@ -39,11 +39,16 @@ A 2D platforming game where you roll through a variety of places playing as a pe
 ## Character
 
 ## Collectibles
+- Speed boosts (super sonic spin bulldoze “charging up a bowling ball” ability)
+- Power boost (penny upgrade, bigger coin) 
+not collectable, cash in coins for power boosts
+- “Party mode” vegas lottery lights (mini game: slot machine → launch coin into the air ) 
+- Bubble jumper (jump higher)
 
 # Meet the Developers
-- [Michelle Leano](portfolio)
-  - 
-- [Larissa Tsai](portfolio)
-  - 
-- [Adam Parrilla](https://adamjparrilla.github.io/)
-  - 
+- [Michelle Leano]([portfolio](https://michnotmeesh.github.io/))
+  - B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Projected Grad: Spring, 2023.
+- [Larissa Tsai]([portfolio](https://larissa-tsai.github.io/))
+  - B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Projected Grad: Summer, 2023.
+- [Adam Parrilla]([portfolio](https://adamjparrilla.github.io/)
+  - B.A. in Information & Computer Science and Art Studio, and a Certificate in Creative Computational Media at the University of Hawaii at Manoa.
