@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3967f5d0-79b4-442e-9941-9244eb31a52f" name="Changes" comment="" />
+    <list default="true" id="3967f5d0-79b4-442e-9941-9244eb31a52f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/issue_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/pull_request_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/ui-text.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/cloudflare_analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/commentbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/disqus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/ext-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/ext-js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/fb-comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer-minimal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer-scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/giscus-comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/google_analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/gtag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/gtm_body.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/gtm_head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/matomo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/readtime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/social-networks-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/social-share.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/staticman-comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/staticman-comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/utterances-comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/minimal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-02-26-flake-it-till-you-make-it.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-02-28-test-markdown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/beautifuljekyll-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/beautifuljekyll.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-social.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/pygment_highlights.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/staticman.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/404-southpark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/avatar-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/bgimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/hello_world.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/install-steps.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/path.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/beautifuljekyll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/staticman.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,10 +79,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Larissa/Documents/GitHub/life-of-a-penny",
+    "last_opened_file_path": "C:/Users/Larissa/Documents/GitHub/life-of-a-penny/docs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Larissa\Documents\GitHub\life-of-a-penny\docs" />
+      <recent name="C:\Users\Larissa\Documents\GitHub\life-of-a-penny\assets" />
+      <recent name="C:\Users\Larissa\Documents\GitHub\life-of-a-penny\_posts" />
+      <recent name="C:\Users\Larissa\Documents\GitHub\life-of-a-penny\_layouts" />
+      <recent name="C:\Users\Larissa\Documents\GitHub\life-of-a-penny\_includes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Larissa\Documents\GitHub\life-of-a-penny" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677052289146</updated>
-      <workItem from="1677052290233" duration="399000" />
+      <workItem from="1677052290233" duration="1733000" />
     </task>
     <servers />
   </component>
