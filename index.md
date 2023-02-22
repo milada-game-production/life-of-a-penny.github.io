@@ -38,6 +38,7 @@ A 2D platforming game where you roll through a variety of places playing as a pe
 
 ## Character
 
+
 ## Collectibles
 - Speed boosts (super sonic spin bulldoze “charging up a bowling ball” ability)
 - Power boost (penny upgrade, bigger coin) 
@@ -47,8 +48,11 @@ not collectable, cash in coins for power boosts
 
 # Meet the Developers
 - [Michelle Leano]([portfolio](https://michnotmeesh.github.io/))
+- ![image](https://user-images.githubusercontent.com/70196126/220595894-4fee0492-1bb3-4315-81ad-0769d960e710.png)
   - B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Projected Grad: Spring, 2023.
 - [Larissa Tsai]([portfolio](https://larissa-tsai.github.io/))
+- ![image](https://user-images.githubusercontent.com/70196126/220595771-d6f11b30-a6a4-4654-a11c-15ce3d19aeb5.png)
   - B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Projected Grad: Summer, 2023.
 - [Adam Parrilla]([portfolio](https://adamjparrilla.github.io/))
+- ![image](https://user-images.githubusercontent.com/70196126/220595709-16679a04-8f20-46ab-ad22-e21d0a3b2e18.png)
   - B.A. in Information & Computer Science and Art Studio, and a Certificate in Creative Computational Media at the University of Hawaii at Manoa.
