@@ -44,14 +44,14 @@ not collectable, cash in coins for power boosts
 - Bubble jumper (jump higher)
 
 # Meet the Developers
-- [Michelle Leano]
+Michelle Leano
 - [portfolio](https://michnotmeesh.github.io/)
   - B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Projected Grad: Spring, 2023.
 
-- [Larissa Tsai]
+Larissa Tsai
 - [portfolio](https://larissa-tsai.github.io/)
   - B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Projected Grad: Summer, 2023.
 
-- [Adam Parrilla]
+Adam Parrilla
 - [portfolio](https://adamjparrilla.github.io/)
   - B.A. in Information & Computer Science and Art Studio, and a Certificate in Creative Computational Media at the University of Hawaii at Manoa.
