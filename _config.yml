@@ -8,4 +8,6 @@ github:
   repository_url: https://github.com/milada-game-production
 gems:
   - jekyll-mentions
+plugins:
+  - jekyll-tabs
 
