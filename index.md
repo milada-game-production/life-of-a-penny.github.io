@@ -48,7 +48,6 @@ not collectable, cash in coins for power boosts
 - Coins which are just currency in game that the coin can use to purchase upgrades
 
 ![image](https://user-images.githubusercontent.com/70196126/220796465-ac708ad7-ff2c-45fc-94de-dcab62575a2c.png)
-![image](https://user-images.githubusercontent.com/70196126/220796475-98424bf6-7245-4a19-b04f-ebf0da7602c3.png)
 
 # Initial Storyboard
 
@@ -57,7 +56,6 @@ not collectable, cash in coins for power boosts
 # Character Movement and Design
 
 ![image](https://user-images.githubusercontent.com/70196126/220796682-a144f1c2-270d-4ea6-93d6-f6afaf28e43e.png)
-![image](https://user-images.githubusercontent.com/70196126/220796784-e75f605c-d8a6-44af-9a09-ea676d8c968d.png)
 
 # Meet the Developers
 Michelle Leano
