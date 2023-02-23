@@ -1,3 +1,8 @@
+---
+title: MILADA game productions
+layout: template
+filename: index.md
+--- 
 ### MILADA game productions
 
 ## Storyline
