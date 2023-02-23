@@ -23,12 +23,15 @@ A 2D platforming game where you roll through a variety of places playing as a pe
 3. Arcade
 4. Penny Press
 
-## Obstacles
+## Obstacles/ Enemies
 - General: Slopes slow you down, platforms & gaps affect movement
 - Couch Storyline: Dust bunnies, cotton balls(rolling enemy)
 - Sidewalk: Gum(slows), puddle(slows), rocks, pigeons
 - Arcade: stuffed animals, crane machine claw, snapping hippos, 
 - Penny Press: gears, flattened(dead) pennies, penny press
+
+![image](https://user-images.githubusercontent.com/70196126/220796547-2e499bed-8c90-4aee-9121-70cc226a94fa.png)
+![image](https://user-images.githubusercontent.com/70196126/220796552-56373729-0eec-4289-b672-d9899b13b34c.png)
 
 ## Game Goal
 - Reach the pocket of the person who dropped you
@@ -42,6 +45,19 @@ A 2D platforming game where you roll through a variety of places playing as a pe
 not collectable, cash in coins for power boosts
 - “Party mode” vegas lottery lights (mini game: slot machine → launch coin into the air ) 
 - Bubble jumper (jump higher)
+- Coins which are just currency in game that the coin can use to purchase upgrades
+
+![image](https://user-images.githubusercontent.com/70196126/220796465-ac708ad7-ff2c-45fc-94de-dcab62575a2c.png)
+![image](https://user-images.githubusercontent.com/70196126/220796475-98424bf6-7245-4a19-b04f-ebf0da7602c3.png)
+
+# Initial Storyboard
+
+![image](https://user-images.githubusercontent.com/70196126/220796589-0ae60a7d-5a8a-4b35-8268-bc49b9da7405.png)
+
+# Character Movement and Design
+
+![image](https://user-images.githubusercontent.com/70196126/220796682-a144f1c2-270d-4ea6-93d6-f6afaf28e43e.png)
+![image](https://user-images.githubusercontent.com/70196126/220796784-e75f605c-d8a6-44af-9a09-ea676d8c968d.png)
 
 # Meet the Developers
 Michelle Leano
