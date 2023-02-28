@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome to Milada Productions!"
 author: "Larissa Tsai"
-categories: documentation
-tags: [documentation,sample]
+categories: storyboard
+tags: [storyboard]
 image: cuba-1.jpg
 ---
 
