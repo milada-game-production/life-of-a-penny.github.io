@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Initial Storyboard',    url: 'facts'}
-- {name: 'About the Game',        url: 'resources'}
-- {name: 'Development',           url: 'sample-posts'}
+- {name: 'Initial Storyboard',    url: 'initial-storyboard'}
+- {name: 'About the Game',        url: 'game-details'}
+- {name: 'Development',           url: 'development'}
 - {name: 'Documentation',         url: 'documentation'}
 - {name: 'About the Developers',  url: 'about'}
 - {name: 'Contact',               url: 'contact'}
