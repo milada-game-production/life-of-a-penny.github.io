@@ -8,10 +8,10 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Initial Storyboard',    url: 'storyboard'}
-- {name: 'About the Game',        url: 'details'}
+- {name: 'The Game',              url: 'details'}
 - {name: 'Development',           url: 'development'}
 - {name: 'Documentation',         url: 'documentation'}
-- {name: 'About the Developers',  url: 'about'}
+- {name: 'The Developers',        url: 'about'}
 
 #Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
