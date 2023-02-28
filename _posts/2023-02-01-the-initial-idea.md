@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Milada Productions!"
+title: "Milada Productions: The Initial Idea!"
 author: "Larissa Tsai"
 categories: storyboard
 tags: [storyboard]
