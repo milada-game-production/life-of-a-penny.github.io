@@ -2,8 +2,8 @@
 layout: post
 title: "About the Developers"
 author: "Larissa Tsai"
-categories: facts
-tags: [sample]
+categories: about
+tags: [about]
 image: cuba-2.jpg
 ---
 
