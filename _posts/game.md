@@ -3,7 +3,7 @@ layout: post
 title: "The Game Details"
 author: "Larissa Tsai"
 categories: details
-tags: [documentation,sample]
+tags: [details]
 image: arctic-2.jpg
 ---
 
