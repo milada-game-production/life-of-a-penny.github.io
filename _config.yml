@@ -6,8 +6,8 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/milada-game-production
-gems:
-  - jekyll-mentions
-plugins:
-  - jekyll-tabs
+  
+# YOU NORMALLY NEVER CHANGE THE FOLLOWING
+markdown: kramdown
+include: [_data]
 
