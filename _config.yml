@@ -1,13 +1,19 @@
-title: Life of a Penny
-description: ICS 485 Project
-google_analytics:
-show_downloads: false
-theme: jekyll-theme-cayman
-github:
-  is_project_page: true
-  repository_url: https://github.com/milada-game-production
-  
-# YOU NORMALLY NEVER CHANGE THE FOLLOWING
-markdown: kramdown
-include: [_data]
+# Site Build Settings
 
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           /:title
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Millennial"
+description:	       "a minimalist Jekyll theme for running a blog or publication"
+author:              "Paul Le"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
