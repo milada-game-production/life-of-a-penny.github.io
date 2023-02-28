@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Idea Come to Life
-category: 
-permalink: /initial-storyboard
+category: storyboard
+permalink: /storyboard
 ---
