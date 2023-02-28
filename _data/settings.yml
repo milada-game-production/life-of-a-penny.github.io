@@ -10,7 +10,6 @@ menu:
 - {name: 'Initial Storyboard',    url: 'storyboard'}
 - {name: 'The Game',              url: 'details'}
 - {name: 'Development',           url: 'development'}
-- {name: 'Documentation',         url: 'documentation'}
 - {name: 'The Developers',        url: 'about'}
 
 # Customize site text
