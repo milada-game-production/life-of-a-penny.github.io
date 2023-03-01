@@ -4,7 +4,7 @@ title: "Milada Productions: The Initial Idea!"
 author: "Larissa Tsai"
 categories: storyboard
 tags: [storyboard]
-image: cuba-1.jpg
+image: PennyDesign.png
 ---
 
 Milada Game Productions started with three Computer Science students: Larissa Tsai, Michelle Leano, and Adam Parilla. We all met in a video game design class at the University of Hawaii at Manoa. 
