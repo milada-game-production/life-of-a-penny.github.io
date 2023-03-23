@@ -7,6 +7,8 @@ tags: [about]
 image: Team_Motivation-01.jpg
 ---
 
+Check out our portfolios and learn about the developers behind the project!
+
 ## Larissa Tsai
 https://larissa-tsai.github.io/
 
