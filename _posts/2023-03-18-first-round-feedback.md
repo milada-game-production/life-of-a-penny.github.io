@@ -4,7 +4,7 @@ title: "First Scene Map!"
 author: "Larissa Tsai"
 categories: storyboard
 tags: [storyboard]
-image: overall-couch.png
+image: pixil-frame-0.png
 ---
 
 We had our peers play our prototypes in class and provide feedbacks for improvement. Some of the feedbacks we got and need to improve on are:
