@@ -1,66 +1,83 @@
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+title: Life of a Penny
+description: ICS 485 Project
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/milada-game-production
 
-# Newsletter: Stay in Touch for Future Updates
+### MILADA game productions
 
-If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
+## Storyline
+A 2D platforming game where you roll through a variety of places playing as a penny trying to get back to the pocket that dropped you.
 
-[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
+## Rules
+- Enemies spawn over time
+- Enemies come to you when in range
+- The areas terrain affects your movement
+- When a scene changes, you have to hit a checkpoint, that will become your respawn point if the level difficulty kills you
+- Collected items remain in coin purse to be used anytime
+- If an enemy hits you, the character falls flat and can’t continue
+
+## Controls
+- AD to roll forward and backwards
+- W to jump
+- Left Click to spin attack (hit)
+- Or game controller
+
+## Level Progression
+1. Couch Origin Story
+2. Sidewalk
+3. Arcade
+4. Penny Press
+
+## Obstacles/ Enemies
+- General: Slopes slow you down, platforms & gaps affect movement
+- Couch Storyline: Dust bunnies, cotton balls(rolling enemy)
+- Sidewalk: Gum(slows), puddle(slows), rocks, pigeons
+- Arcade: stuffed animals, crane machine claw, snapping hippos, 
+- Penny Press: gears, flattened(dead) pennies, penny press
+
+![image](https://user-images.githubusercontent.com/70196126/220796547-2e499bed-8c90-4aee-9121-70cc226a94fa.png)
+![image](https://user-images.githubusercontent.com/70196126/220796552-56373729-0eec-4289-b672-d9899b13b34c.png)
+
+## Game Goal
+- Reach the pocket of the person who dropped you
+- Collect coins, speed boosts, and purchase upgrades along the way
+- Prevent yourself from falling over
+- Destroy floating coin acceptors(Like a pinata → more coins)
+
+## Collectibles
+- Speed boosts (super sonic spin bulldoze “charging up a bowling ball” ability)
+- Power boost (penny upgrade, bigger coin) 
+not collectable, cash in coins for power boosts
+- “Party mode” vegas lottery lights (mini game: slot machine → launch coin into the air ) 
+- Bubble jumper (jump higher)
+- Coins which are just currency in game that the coin can use to purchase upgrades
+
+![image](https://user-images.githubusercontent.com/70196126/220796465-ac708ad7-ff2c-45fc-94de-dcab62575a2c.png)
+
+# Initial Storyboard
+
+![image](https://user-images.githubusercontent.com/70196126/220796589-0ae60a7d-5a8a-4b35-8268-bc49b9da7405.png)
+
+# Character Movement and Design
+
+![image](https://user-images.githubusercontent.com/70196126/220796682-a144f1c2-270d-4ea6-93d6-f6afaf28e43e.png)
+
+# Meet the Developers
+Michelle Leano
+- [portfolio](https://michnotmeesh.github.io/)
+  - B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Projected Grad: Spring, 2023.
+
+Larissa Tsai
+- [portfolio](https://larissa-tsai.github.io/)
+  - B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Projected Grad: Summer, 2023.
+
+Adam Parrilla
+- [portfolio](https://adamjparrilla.github.io/)
+  - B.A. in Information & Computer Science and Art Studio, and a Certificate in Creative Computational Media at the University of Hawaii at Manoa.
 
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
-## A Responsive Jekyll Theme: *Feeling Responsive*
-
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
-
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
-
-And what license is *Feeling Responsive* released under? [This one][2].
-
-
-
-## Why use this theme?
-
-Feeling Responsive is heavily customizable.
-
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
-
-**[More ›][3]**
-
-
-
-## Changelog
-
-*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
-
-**[Read Changelog ›][6]**
-
-
-
-## Video Tutorial
-
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
-
-
-
-
-
-
-
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
- [8]: http://phlow.github.io/simplicity/
- [9]: #
- [10]: #
