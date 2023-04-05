@@ -1,12 +1,3 @@
-title: Life of a Penny
-description: ICS 485 Project
-google_analytics:
-show_downloads: false
-theme: jekyll-theme-cayman
-github:
-  is_project_page: true
-  repository_url: https://github.com/milada-game-production
-
 ### MILADA game productions
 
 ## Storyline
