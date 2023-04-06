@@ -8,10 +8,10 @@ sitemap: false
 Check out our portfolios and learn about the developers behind the project!
 
 ## Larissa Tsai
-https://larissa-tsai.github.io/
+[Larissa's Portfolio](https://larissa-tsai.github.io/)
 
 ## Adam Parilla
-https://adamjparrilla.github.io/
+[Adam's Portfolio](https://adamjparrilla.github.io/)
 
 ## Michelle Leano
-https://michnotmeesh.github.io/
+[Michelle's Portfolio](https://michnotmeesh.github.io/)
