@@ -1,17 +1,16 @@
 ---
 layout: page
-sidebar: left
 subheadline: Templates
 title:  "Initial Storyboard"
 teaser: "This is the story of how we started our game."
 breadcrumb: true
 tags:
-    - post format
+    - storyboard
 categories:
     - design
 image:
-    thumb: gallery-example-3-thumb.jpg
-    title: gallery-example-3.jpg
+    title: gallery-example-1.jpg
+    caption: Unsplash.com
     caption_url: http://unsplash.com
 ---
 
