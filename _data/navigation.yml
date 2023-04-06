@@ -1,4 +1,4 @@
-- title: About Us
+- title: Milada GP
   url: "/"
   side: left
 
@@ -30,4 +30,11 @@
 - title: "Search"
   url: "/search/"
   side: right
+  
+- title: "About Us"
+  url: "/about-us/"
+  side: right
+  
+  
+  
 
