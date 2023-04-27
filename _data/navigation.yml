@@ -7,7 +7,7 @@
   side: left
 
 - title: "Updates and Development"
-  url: "/design-process/"
+  url: "/design/process/"
   side: left
   dropdown:
   - title: "Initial Storyboard"
