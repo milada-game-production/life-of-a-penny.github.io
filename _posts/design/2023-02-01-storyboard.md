@@ -9,9 +9,8 @@ tags:
 categories:
     - design
 image:
-    title: gallery-example-1.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    title: storyboard.jpg
+
 ---
 
 Milada Game Productions started with three Computer Science students: Larissa Tsai, Michelle Leano, and Adam Parilla. We all met in a video game design class at the University of Hawaii at Manoa. 
